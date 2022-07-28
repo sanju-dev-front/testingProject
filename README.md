@@ -1,2 +1,3 @@
-# testingProject
-this is first project which i am uploading to git. just for testing purpose i decidedto upload a miniproject
+# USER_FILTER
+Coded with html css and javascript . in this project i have added some random usernames.and we can filter them in app by entering their name.
+
